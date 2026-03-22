@@ -3,7 +3,7 @@
 ##  Description
 Cette application mobile permet de simuler le montant des impôts locaux pour une habitation en fonction de critères physiques. Ce projet a été réalisé dans le cadre d'un module de développement mobile pour démontrer la gestion des entrées utilisateurs et la logique métier simple.
 
-## 📸 Aperçu de l'Interface
+##  Aperçu de l'Interface
 <img width="391" height="866" alt="Screenshot 2026-03-22 182747" src="https://github.com/user-attachments/assets/bb9bcb26-51a0-4151-960d-56260001bc77" />
 
 *Interface utilisateur optimisée avec validation de saisie et rendu monétaire formaté.*
